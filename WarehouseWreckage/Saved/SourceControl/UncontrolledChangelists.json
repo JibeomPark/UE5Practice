@@ -1,0 +1,35 @@
+{
+	"version": 1,
+	"changelists": [
+		{
+			"guid": "00000000000000000000000000000000",
+			"description": "Default Uncontrolled Changelist",
+			"files": [
+				"D:/Work/Practice/Udemy/UE5Practice/WarehouseWreckage/Content/StarterContent/HDRI/HDRI_Epic_Courtyard_Daylight.uasset",
+				"D:/Work/Practice/Udemy/UE5Practice/WarehouseWreckage/Content/StarterContent/Maps/Maps/Minimal_Default_2.umap",
+				"D:/Work/Practice/Udemy/UE5Practice/WarehouseWreckage/Content/StarterContent/Maps/Maps/StarterMap_BuiltData.uasset",
+				"D:/Work/Practice/Udemy/UE5Practice/WarehouseWreckage/Content/StarterContent/Maps/Maps/StarterMap.umap",
+				"D:/Work/Practice/Udemy/UE5Practice/WarehouseWreckage/Content/StarterContent/Maps/Maps/StarterMap_2.umap",
+				"D:/Work/Practice/Udemy/UE5Practice/WarehouseWreckage/Content/StarterContent/Maps/Maps/StarterMap_BuiltData_2.uasset",
+				"D:/Work/Practice/Udemy/UE5Practice/WarehouseWreckage/Content/StarterContent/Maps/Maps/Minimal_Default_BuiltData_2.uasset",
+				"D:/Work/Practice/Udemy/UE5Practice/WarehouseWreckage/Content/StarterContent/Maps/Maps/Minimal_Default_BuiltData.uasset",
+				"D:/Work/Practice/Udemy/UE5Practice/WarehouseWreckage/Content/StarterContent/Maps/Minimal_Default_BuiltData.uasset",
+				"D:/Work/Practice/Udemy/UE5Practice/WarehouseWreckage/Content/StarterContent/Maps/StarterMap.umap",
+				"D:/Work/Practice/Udemy/UE5Practice/WarehouseWreckage/Content/StarterContent/Maps/StarterMap_BuiltData.uasset",
+				"D:/Work/Practice/Udemy/UE5Practice/WarehouseWreckage/Content/Maps/StarterMap_BuiltData.uasset",
+				"D:/Work/Practice/Udemy/UE5Practice/WarehouseWreckage/Content/Maps/StarterMap.umap",
+				"D:/Work/Practice/Udemy/UE5Practice/WarehouseWreckage/Content/Maps/StarterMap_2.umap",
+				"D:/Work/Practice/Udemy/UE5Practice/WarehouseWreckage/Content/Maps/Minimal_Default_2.umap",
+				"D:/Work/Practice/Udemy/UE5Practice/WarehouseWreckage/Content/Maps/Minimal_Default_BuiltData_2.uasset",
+				"D:/Work/Practice/Udemy/UE5Practice/WarehouseWreckage/Content/Maps/Minimal_Default_BuiltData.uasset",
+				"D:/Work/Practice/Udemy/UE5Practice/WarehouseWreckage/Content/Maps/StarterMap_BuiltData_2.uasset",
+				"D:/Work/Practice/Udemy/UE5Practice/WarehouseWreckage/Content/StarterContent/Maps/Minimal_Default.umap",
+				"D:/Work/Practice/Udemy/UE5Practice/WarehouseWreckage/Content/StarterContent/Maps/Advanced_Lighting_2.umap",
+				"D:/Work/Practice/Udemy/UE5Practice/WarehouseWreckage/Content/StarterContent/Props/Materials/M_Chair.uasset",
+				"D:/Work/Practice/Udemy/UE5Practice/WarehouseWreckage/Content/StarterContent/Props/Materials/M_TableRound.uasset",
+				"D:/Work/Practice/Udemy/UE5Practice/WarehouseWreckage/Content/StarterContent/Maps/Advanced_Lighting_BuiltData_2.uasset",
+				"D:/Work/Practice/Udemy/UE5Practice/WarehouseWreckage/Content/BP_Projectile.uasset"
+			]
+		}
+	]
+}
